@@ -3,13 +3,10 @@
 We specialize in creating innovative software solutions that elevate your digital presence.
 
 ### Our expertise:
-- 🌐 Web App Development  
-- 📱 Mobile App Development  
-- 🛠️ Custom Software Solutions  
-- 🤖 AI-Powered Business Solutions  
-- 🎨 UI/UX Design  
-- 🏷️ Branding and Identity Solutions
-
+- Web App Development  
+- Mobile App Development  
+- Custom Software Solutions  
+- AI-Powered Business Solutions  
 
 <br>
 📧 If you want to work with us, reach out at [info@calliumcode.com](mailto:info@calliumcode.com) or visit our website at [calliumcode.com](https://calliumcode.com/) for more information.
